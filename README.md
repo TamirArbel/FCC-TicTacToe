@@ -1,4 +1,4 @@
-# iweardiapers.github.io
+# tamirarbel.github.io
 Submission for Free Code Camp challenge to make:
 
 Game of Tic Tac Toe
